@@ -55,10 +55,6 @@
 <img src='https://s-media-cache-ak0.pinimg.com/originals/05/9e/fb/059efb24802a70c762a5ca43f0cea1be.jpg' alt="">
 <img src="https://s-media-cache-ak0.pinimg.com/originals/78/f9/09/78f909809af7020f31ea02dc047c176f.jpg" alt="">
 
-<div class="spinner">
-<% if @input == 'css' %>
-    <div class="div" id="spinner-css"></div>
-<% else %>
-    <div><%= image_tag('Infinity.gif',id: 'spinner-image') %></div>
-<% end %>
-</div>
+
+
+<%= loading_screen  %>

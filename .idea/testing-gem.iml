@@ -25,6 +25,20 @@
     </content>
     <orderEntry type="jdk" jdkName="rbenv: 2.3.5" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="loading_screen (v0.1.0) [path][gem]">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../loading_screen/lib" />
+          <root url="file://$MODULE_DIR$/../loading_screen/bin" />
+          <root url="file://$MODULE_DIR$/../loading_screen/.idea" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../loading_screen/lib" />
+          <root url="file://$MODULE_DIR$/../loading_screen/bin" />
+          <root url="file://$MODULE_DIR$/../loading_screen/.idea" />
+        </SOURCES>
+      </library>
+    </orderEntry>
     <orderEntry type="library" scope="PROVIDED" name="actioncable (v5.2.0.beta2, rbenv: 2.3.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="actionmailer (v5.2.0.beta2, rbenv: 2.3.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="actionpack (v5.2.0.beta2, rbenv: 2.3.5) [gem]" level="application" />
@@ -37,8 +51,11 @@
     <orderEntry type="library" scope="PROVIDED" name="addressable (v2.5.2, rbenv: 2.3.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="archive-zip (v0.7.0, rbenv: 2.3.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="arel (v9.0.0, rbenv: 2.3.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="autoprefixer-rails (v7.2.5, rbenv: 2.3.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bindex (v0.5.0, rbenv: 2.3.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bootsnap (v1.1.8, rbenv: 2.3.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bootstrap-sass (v3.3.7, rbenv: 2.3.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bootstrap-view-helpers (v0.0.14, rbenv: 2.3.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="builder (v3.2.3, rbenv: 2.3.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bundler (v1.16.1, rbenv: 2.3.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="byebug (v9.1.0, rbenv: 2.3.5) [gem]" level="application" />
@@ -54,7 +71,7 @@
     <orderEntry type="library" scope="PROVIDED" name="execjs (v2.7.0, rbenv: 2.3.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="ffi (v1.9.18, rbenv: 2.3.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="globalid (v0.4.1, rbenv: 2.3.5) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="i18n (v0.9.1, rbenv: 2.3.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="i18n (v0.9.3, rbenv: 2.3.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="io-like (v0.3.0, rbenv: 2.3.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="jbuilder (v2.7.0, rbenv: 2.3.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="jquery-rails (v4.3.1, rbenv: 2.3.5) [gem]" level="application" />
